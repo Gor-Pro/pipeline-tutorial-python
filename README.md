@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/echo-it/Training/_apis/build/status%2FGor-Pro.pipeline-tutorial-python?branchName=main)](https://dev.azure.com/echo-it/Training/_build/latest?definitionId=4500&branchName=main)
+
 # Python/Flask Tutorial for Visual Studio Code
 
 * This sample contains the completed program from the tutorial, make sure to visit the link: [Using Flask in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-flask). Intermediate steps are not included.
